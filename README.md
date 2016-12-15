@@ -1,5 +1,7 @@
 # Multiplication-Algorithms
 
+This is one of the projects of my Algorithm Design (INFSCI 2591) course at School of Information Sciences (iSchool), University of Pittsburgh. 
+
 The objective is to design two programs, one for the Ala Carte Multiplication algorithm and one for the Rectangle Multiplication algorithm. 
 
 Both programs allow positive and negative multiplicands and multipliers.
